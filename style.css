@@ -12,8 +12,8 @@ body{
    align-items: center;
     min-height: 100vh;
     background: url(img3.avif)no-repeat;
-    background-size: cover;
-    background-position: 100vh 100vw;
+    background-size: 100vh 100vw;
+    background-position: center;
 }
 
 .header {
